@@ -37,3 +37,6 @@ SwapVerse is a collaborative application for all your skill needs , whether you'
 
 Built for Odoo Hackathon 2025, the project emphasizes peer-to-peer learning and community-driven development.
 
+Deployment link:
+https://vercel.com/sadhya-guptas-projects/oddo-hacks-2025-swap-verse/HnxFa6oLh1hZEQkSCzVWhtT6kfby
+
