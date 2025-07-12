@@ -1,10 +1,21 @@
 # Skill Swap Platform – Odoo-hackathon-2025
 
-## Team: Sparkle Stack
+# SwapVerse
+
+## Tagline:
+Where skills disperse in the learning universe.
+
+## Team:
+Sparkle Stack
+
+## Event:
+Odoo Hackathon 2025
 
 ## About the Project
 
-The Skill Swap Platform is a collaborative system that enables users to connect and exchange skills seamlessly. Whether it's learning a new language, mastering a coding concept, or sharing creative talents — this platform creates a trusted space for skill-based collaboration.
+SwapVerse is a collaborative skill exchange platform designed to empower individuals by connecting learners and mentors across various domains. Whether it’s coding, communication, design, or creative arts — users can swap knowledge, upskill, and grow together.
 
-Built for Odoo Hackathon 2025, this project focuses on peer-to-peer learning and promotes community-driven upskilling.
+Built for Odoo Hackathon 2025, the project emphasizes peer-to-peer learning and community-driven development.
+
+
 
