@@ -1,12 +1,19 @@
-# React + Vite
+# Skill Swap Platform – Odoo-hackathon-2025
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# SwapVerse
 
-Currently, two official plugins are available:
+## Tagline:
+Where skills disperse in the learning universe.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Team:
+Sparkle Stack
 
-## Expanding the ESLint configuration
+## Event:
+Odoo Hackathon 2025
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## About the Project
+
+SwapVerse is a collaborative skill exchange platform designed to empower individuals by connecting learners and mentors across various domains. Whether it’s coding, communication, design, or creative arts — users can swap knowledge, upskill, and grow together.
+
+Built for Odoo Hackathon 2025, the project emphasizes peer-to-peer learning and community-driven development.
+
